@@ -1,8 +1,8 @@
-👋 Hi, I’m @cnrd-dev
+👋 Hi, I’m cnrd
 
-👀 I’m interested in IoT, Data Science, Web Development, 3D Printing and Vertical Farming
+👀 I’m interested in IoT, Data Science, Web Development, 3D Printing, Vertical Farming and Drawing
 
-🌱 I’m always busy learning something new 😉
+🌱 I’m always busy learning something new 😉 DESIGN -> BUILD -> CODE
 
 
 <!---
